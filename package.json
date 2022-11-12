@@ -1,0 +1,23 @@
+{
+  "name": "web-dash",
+  "version": "1.0.0",
+  "description": "Web dashboard with a collection of usable tools for management of home network and connected devices.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertgustavsson/web-dash.git"
+  },
+  "author": "Albert Gustavsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albertgustavsson/web-dash/issues"
+  },
+  "homepage": "https://github.com/albertgustavsson/web-dash#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
